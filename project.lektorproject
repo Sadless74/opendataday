@@ -38,6 +38,10 @@ locale = pt_br
 [alternatives.ne]
 name = Nepali
 url_prefix = /ne/
+
+[alternatives.ru]
+name = Русский
+url_prefix = /ru/
 locale = ne
 
 [alternatives.nl]
